@@ -10,7 +10,7 @@ const __dirname = dirname(__filename);
 
 const app = express();
 const port = 5000;
-const jobsFilePath = join(__dirname, "jobs.json");
+const jobsFilePath = join(__dirname, "../jobs.json");
 
 // Middleware to parse JSON requests
 app.use(bodyParser.json());
