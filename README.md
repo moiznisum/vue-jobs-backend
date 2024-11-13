@@ -2,7 +2,9 @@
 
 This template should help get you started developing with Vue 3 in Vite.
 
-Live Api Preview: [Click Here](https://vue-jobs-backend.vercel.app/jobs)
+Live Api Preview: <a href="https://vue-jobs-backend.vercel.app/jobs" target="_blank">Click Here</a>
+
+Frontend Git Repo: <a href="https://github.com/moiznisum/vue-jobs" target="_blank">Click Here</a>
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png" width="320" alt="Nest Logo" /></a>
